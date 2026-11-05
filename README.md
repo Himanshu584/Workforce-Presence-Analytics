@@ -1,5 +1,5 @@
 # HR-analytics
-![dashboard img](https://github.com/Himanshu584/HR-analytics/blob/main/1.png)
+![dashboard img](https://github.com/Himanshu584/HR-analytics/blob/main/HR_Analytics_Dashboard.png))
 
 
 ### Problem Statement :-
