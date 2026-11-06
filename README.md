@@ -1,11 +1,11 @@
 # Workforce Presence Analytics
 
-An HR analytics dashboard built in **Microsoft Power BI** to explore
+An Workforce Presence analytics dashboard built in **Microsoft Power BI** to explore
 employee attendance patterns, work-from-home activity, and sick-leave
 trends across April--June 2022.
 
 ![Workforce Presence Analytics
-Dashboard](assets/Workforce_Presence_Analytics_Dashboard.png)
+Dashboard](https://github.com/Himanshu584/Workforce-Presence-Analytics/blob/main/Dashboard.png))
 
 ## Project Overview
 
@@ -141,17 +141,12 @@ those reasons.
 ``` text
 Workforce-Presence-Analytics/
 │
-├── assets/
-│   └── Workforce_Presence_Analytics_Dashboard.png
-│
+├── Dashboard.png
 ├── Workforce_Presence_Analytics.pbix
 ├── Attendance_Sheet_2022_2023_Masked.xlsx
 └── README.md
 ```
 
-*Update the filenames in this structure if your uploaded files use
-different names. Only include the source workbook in the public
-repository if you have permission to share it.*
 
 ## Project Link
 
