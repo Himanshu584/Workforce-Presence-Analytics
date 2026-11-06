@@ -5,7 +5,7 @@ employee attendance patterns, work-from-home activity, and sick-leave
 trends across April--June 2022.
 
 ![Workforce Presence Analytics
-Dashboard](https://github.com/Himanshu584/Workforce-Presence-Analytics/blob/main/Dashboard.png))
+Dashboard](https://github.com/Himanshu584/Workforce-Presence-Analytics/blob/main/Dashboard.png)
 
 ## Project Overview
 
